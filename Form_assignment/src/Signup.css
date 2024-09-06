@@ -1,0 +1,17 @@
+body{
+  display: flex;
+  justify-content: center;
+  /* align-items: center;
+  /* position: absolute;
+  margin-top: 50%;
+  margin-left: 50%; */
+}
+
+#name{
+  display: flex;
+  justify-content: space-around;
+}
+
+#form{
+  margin-top: 50vh;  
+}
